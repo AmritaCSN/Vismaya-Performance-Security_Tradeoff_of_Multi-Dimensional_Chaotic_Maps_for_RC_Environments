@@ -64,7 +64,7 @@ To execute the each security analysis code in MATLAB, follow the steps mentioned
 
 ## Block Diagram of Proposed Scheme
 
-This is block representation of the proposed scheme.
+This is block representation of the proposed work. 
 
 <img width="436" alt="image" src="https://github.com/vismaya74/Performance-Security_Tradeoff_of_Multi-Dimensional_Chaotic_Maps_for_RC_Environments/assets/115627302/6b8bf9a6-5a28-4282-aa83-d1e5f60092bf">
 
