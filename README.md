@@ -42,8 +42,6 @@ This folder contains the codes for key generation using multi dimensional chaoti
 3. Open the code for the desired map.
 4. Run the code in MATLAB.
 ```
-### 3. `/image_dataset`
-This folder contains different images of different pixel sizes. Also contains `image_details` (.txt file) with details about all the images used for implementation and analysis.
 
 ### 4. `/security_analyses`
 
